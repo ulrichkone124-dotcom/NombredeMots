@@ -1,0 +1,3 @@
+Java est un langage de programmation.
+Ce programme compte le nombre de mots dans ce fichier.
+Chaque ligne est lue et séparée par des espaces.
